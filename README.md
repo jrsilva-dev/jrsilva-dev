@@ -2,7 +2,7 @@
 
 ###
 
-**`Full-Stack Developer | UI/UX | Analísta de Dados`**
+**`Full-Stack Developer | UI/UX | Database`**
 
 ###
 
