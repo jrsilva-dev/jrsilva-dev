@@ -51,6 +51,6 @@
 
 <div>
   <a href="https://github.com/jrsilva-dev">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jrsilva-dev&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jrsilva-dev&layout=compact&show_icons=true&theme=transparent"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsilva-dev&layout=compact&langs_count=8&theme=transparent"/>
 </div>
